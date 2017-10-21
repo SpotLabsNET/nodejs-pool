@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\deployment",
+    "\\lib",
+    "\\lib\\coins",
+    "\\lib\\payment_systems",
+    "\\sql_sync",
+    "\\tools"
   ],
+  "SelectedNode": "\\init.js",
   "PreviewInSolutionExplorer": false
 }
