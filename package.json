@@ -5,7 +5,7 @@
   "main": "init.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Snipa22/node-crypto-pool.git"
+    "url": "https://github.com/SpotLabsNET/node-crypto-pool.git"
   },
   "author": "Alexander Blair",
   "license": "MIT",
@@ -42,7 +42,7 @@
     "zmq": "^2.15.3"
   },
   "optionalDependencies": {
-    "cryptonote-util": "git://github.com/Snipa22/node-cryptonote-util.git#xmr-Nan-2.0",
-    "multi-hashing": "git+https://github.com/Snipa22/node-multi-hashing-aesni.git"
+    "cryptonote-util": "git://github.com/SpotLabsNET/node-cryptonote-util.git#xmr-Nan-2.0",
+    "multi-hashing": "git+https://github.com/SpotLabsNET/node-multi-hashing-aesni.git"
   }
 }
